@@ -17,12 +17,12 @@ This project was built with angular 12, ng-zorro, tailwind css.
 3. TAILWIND CSS: https://tailwindcss.com/
 
 ## Environment Setup
-Node: 12.20.2
+`Node`: 12.20.2
 
-Angular: 12.2.16
+`Angular`: 12.2.16
 
-Angular CLI: 12.2.18
+`Angular CLI`: 12.2.18
 
-Ng-zorro: 13.4.0
+`Ng-zorro`: 13.4.0
 
-Tailwind Css: 3.1.7
+`Tailwind Css`: 3.1.7
