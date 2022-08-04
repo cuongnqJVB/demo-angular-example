@@ -10,9 +10,9 @@ This project was built with angular 12, ng-zorro, tailwind css.
 4. Building project `yarn build`
 
 ## Detail Tech
-[Angular]: https://angular.io/
-[NG-ZORRO]: https://ng.ant.design/docs/introduce/en
-[TAILWIND CSS]: https://tailwindcss.com/
+1.Angular: https://angular.io/
+2.NG-ZORRO: https://ng.ant.design/docs/introduce/en
+3.TAILWIND CSS: https://tailwindcss.com/
 
 ## Environment Setup
 Node: 12.20.2
