@@ -11,7 +11,9 @@ This project was built with angular 12, ng-zorro, tailwind css.
 
 ## Detail Tech
 1.Angular: https://angular.io/
+
 2.NG-ZORRO: https://ng.ant.design/docs/introduce/en
+
 3.TAILWIND CSS: https://tailwindcss.com/
 
 ## Environment Setup
