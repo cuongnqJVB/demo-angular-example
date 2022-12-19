@@ -1,14 +1,19 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-dashboard',
-  templateUrl: './dashboard.component.html'
+    selector: 'app-dashboard',
+    templateUrl: './dashboard.component.html'
 })
 export class DashboardComponent implements OnInit {
+    searchTerm: any = {};
 
-  constructor() { }
+    constructor() { }
 
-  ngOnInit(): void {
-  }
+    ngOnInit(): void {
+    }
 
+    onSubmit(params: any) {
+        alert('submit filter');
+        console.log(params);
+    }
 }
